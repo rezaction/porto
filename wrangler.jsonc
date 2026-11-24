@@ -1,0 +1,6 @@
+{
+  // Situs statis murni (tanpa Worker/admin). "name" harus sama dengan nama Worker di Cloudflare.
+  "name": "rezaction-personal-portofolio",
+  "compatibility_date": "2025-11-01",
+  "assets": { "directory": "." }
+}
